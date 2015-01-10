@@ -1,17 +1,38 @@
-h1{
-	font-family: 'Pacifico', cursive;
-	color:#DC3522;
-	font-size:5em;
-
+body{
+	background:url("../img/upfeathers.png");
 }
 
 
 
 
+h1{
+	font-family: 'Pacifico', cursive;
+	color:#DC3522;
+	font-size:5em;
+}
+
+section{
+	margin:20px 20px;
+}
+img{
+	width:800px;
+	height:1029px;
+}
+
+.container{
+	width:232px;
+	height:132px;
+}
+
+
+
+
+
 .persona{
-	width:612px;
+	height:1029px;
+	width:800px;
 	border:10px #2A2C2B solid;
-	background:#D9CB9E;
+	background:#374140;
 	padding:10px;
 	margin:auto;
 
